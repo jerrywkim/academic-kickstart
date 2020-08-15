@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jerry W. Kim
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Management
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Rutgers Business School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
